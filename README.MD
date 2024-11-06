@@ -2,7 +2,7 @@
 
 ## ⚡ Requirements
 
-- Node Version 16
+- Node Version 18
 
 ## 📥 Installation & Running in Local
 
